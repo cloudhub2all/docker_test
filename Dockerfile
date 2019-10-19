@@ -1,4 +1,4 @@
-o# use a node base image
+# use a node base image
 FROM node:7-onbuild
 
 # set maintainer
