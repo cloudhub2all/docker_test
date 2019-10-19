@@ -1,8 +1,8 @@
-# use a node base image
+o# use a node base image
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "crudsinfotechng@gmail.com"
+LABEL maintainer "echo2deep@gmail.com"
 
 # set a health check
 HEALTHCHECK --interval=5s \
